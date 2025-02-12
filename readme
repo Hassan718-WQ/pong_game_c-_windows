@@ -1,0 +1,4 @@
+this bong game is designed to be used on windows.
+the animation is flikery due to the lack of utilizing the windows API or any graphics engine just simple IO.
+the problem could be solved by using ANSI code but this solution can only work on UNIX systems smoothly.
+since this my first real project in c++ i will only provide the scource code.
